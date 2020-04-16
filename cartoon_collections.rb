@@ -41,7 +41,6 @@ def find_valid_calls(planeteer_calls)
   planeteer_calls.each do |call|
     if valid_calls.include? call
       call
-      break
     end
   end
   
