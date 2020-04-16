@@ -19,7 +19,7 @@ def summon_captain_planet(planeteer_calls)
   new_array.map do |call|
     call = call + "!"
   end
-  
+  # FIRST TRY IM A BEAST
 end
 
 def long_planeteer_calls(planeteer_calls)
